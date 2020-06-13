@@ -2,7 +2,7 @@ welcome to automation
 <br />
 
 <pre>
-<?php?
+<?php
 print `ifconfig`;
 print  `free -m`;
 
